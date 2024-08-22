@@ -5,13 +5,15 @@
 | 1102932 | 林微訢 | Address Space Layout Randomization (ASLR) |
 | 1102943 | 顏莉諭 | Stack Smashing Protection (SSP) |
 | 1102962 | 鍾佳妘 | Return-oriented Programming (ROP) |
+
 # Buffer Overflow, Shell Code, and Advanced Protection
-保護機制：  
-- Write XOR Execute (W^X)
-- Stack Smashing Protection (SSP)
-- Address Space Layout Randomization (ASLR)  
-攻擊：  
-- Return-oriented Programming (ROP)  
+- 簡單介紹
+- 保護機制：  
+  - [Write XOR Execute (W^X)](https://github.com/MingChih123/SecureProgramming_WriteXorExecute/blob/main/Secure%20Programming_WxorX.pdf)
+  - Stack Smashing Protection (SSP)
+  - Address Space Layout Randomization (ASLR)  
+- 攻擊：  
+  - Return-oriented Programming (ROP)  
 ## Write Xor Execute（W^X）
 ### Write XOR Execute介紹
 - 「寫入 XOR 執行」（Write XOR Execute，簡稱 W^X）是一種安全技術（記憶體保護策略）。
