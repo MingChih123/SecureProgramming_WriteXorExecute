@@ -8,7 +8,7 @@
 
 # Buffer Overflow, Shell Code, and Advanced Protection
 ## 摘要
-主要
+主要介紹一些保護機制和攻擊。要如何做到保護的效果?又能靠甚麼攻擊技術來繞過保護機制呢?這邊針對Write XOR Execute來作詳細說明。
 ## 介紹內容
 - [簡單介紹](https://github.com/MingChih123/SecureProgramming_WriteXorExecute/blob/main/%E8%B3%87%E5%AE%89%E5%A0%B1%E5%91%8A_%E9%A7%AD%E5%AE%A2%E6%94%BB%E9%98%B2.pdf)
 - 保護機制：  
